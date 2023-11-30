@@ -23,3 +23,5 @@ DESC jogos;
 DESC categorias;
 
 DESC plataformas;
+
+SHOW DATABASES;
